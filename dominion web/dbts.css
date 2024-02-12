@@ -1,0 +1,16 @@
+body {background-color: aquamarine;
+ background-image: url("images/dbs\ limited2\ -\ Copy.jpg");
+background-repeat: no-repeat;
+background-position:center;
+background-size: cover;}
+h2{color: brown;
+background-color: blanchedalmond;
+text-align: center;}
+h1{background-color: rgb(222, 238, 0);
+text-align: center;
+font-size: 50px;}
+.section2{border: 5px rgb(255, 238, 0) dotted; background-color: rgb(223, 181, 181); color: rgb(0, 0, 255);
+padding: 20px;
+margin: 10px;
+font-size: 50px;}
+.section1{background-color: aqua; font-size: 20px;}

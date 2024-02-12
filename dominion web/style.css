@@ -1,0 +1,19 @@
+.section1{
+    border: 2px solid blue;
+    padding: 20px;
+    margin: 10px;
+    background-color: aqua;
+    background-image: url(images/dbs\ limited2\ -\ Copy.jpg);
+    background-repeat: no-repeat ;
+    background-position: cover;
+}
+
+.section2{
+    border: 5px dotted solid red;
+    padding: 20px;
+    margin: 10px;
+    border: 5px; color: brown;
+    border: dotted
+    color: aliceblue;
+
+}
